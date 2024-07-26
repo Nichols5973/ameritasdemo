@@ -12,6 +12,7 @@ main .hero-container {
   padding: 32px;
   min-height: 300px;
   max-height: 400px;
+  padding-left: 200px
 }
 
 .hero h1 {
@@ -22,7 +23,7 @@ main .hero-container {
   padding-top: 16px;
   padding-right: 35px;
   padding-bottom: 52px;
-  padding-left: 400px;
+  padding-left: 20px;
   width: 450px;
   height: 400px;
   top: 8px;
