@@ -4,6 +4,7 @@ main .hero-container > div {
 
 main .hero-container {
   padding: 0;
+  margin-bottom: 250px; 
 }
 
 .hero {
@@ -11,7 +12,6 @@ main .hero-container {
   padding: 32px;
   min-height: 300px;
   max-height: 400px;
-  margin-bottom: 20px; 
 }
 
 .hero h1 {
