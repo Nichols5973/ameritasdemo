@@ -19,7 +19,6 @@ main .hero-container {
   color: white;
 }
 
-}
 .hero picture {
   position: absolute;
   z-index: -1;
