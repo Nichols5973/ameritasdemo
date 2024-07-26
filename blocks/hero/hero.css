@@ -13,15 +13,16 @@ main .hero-container {
 }
 
 .hero h1 {
-  max-width: 600px;
-  margin-left: 50px;
-  margin-right: auto;
-  color: black;
-  background-color: white;
-  width: 300px;
-  height: 400px;
-  box-shadow:  3px 3px 3px 3px gray;
-  
+  background-color: #FFFFFF;
+  border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+  padding-top: 16px;
+  padding-right: 35px;
+  padding-bottom: 52px;
+  padding-left: 35px;
+  box-shadow: 0px 2px 18px 0px rgba(0, 0, 0, 0.3);
+  top: 8px;
+  bottom: auto;
 }
 
 .hero picture {
