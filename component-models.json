@@ -183,6 +183,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "boxtitle",
+        "value": "",
+        "label": "box title",
+        "valueType": "string"
       }
     ]
   }
