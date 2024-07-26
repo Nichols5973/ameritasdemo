@@ -5,8 +5,8 @@ main .hero-container > div {
 main .hero-container {
   padding: 0;
   margin-bottom: 250px;
-  margin-left: 400px; 
-  margin-right: 400px; 
+  margin-left: 500px; 
+  margin-right: 500px; 
 }
 
 .hero {
