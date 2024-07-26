@@ -17,7 +17,15 @@ main .hero-container {
   margin-left: auto;
   margin-right: auto;
   color: white;
-  }
+}
+
+.hero picture {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  object-fit: cover;
+  box-sizing: border-box;
+}
 
 .hero img {
   object-fit: cover;
