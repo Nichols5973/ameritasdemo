@@ -21,9 +21,11 @@ main .hero-container {
   padding-right: 35px;
   padding-bottom: 52px;
   padding-left: 35px;
-  box-shadow: 0px 2px 18px 0px rgba(0, 0, 0, 0.3);
+  width: 450px;
+  height: 400px;
   top: 8px;
   bottom: auto;
+  box-shadow: 0px 2px 18px 0px rgba(0, 0, 0, 0.3);
 }
 
 .hero picture {
