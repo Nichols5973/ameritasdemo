@@ -145,6 +145,7 @@ a:hover {
 a.button:any-link,
 button {
   font-family: var(--body-font-family);
+  align: center;
   display: inline-block;
   box-sizing: border-box;
   text-decoration: none;
