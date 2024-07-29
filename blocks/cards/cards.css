@@ -25,6 +25,7 @@
 
 .cards .cards-card-body > *:first-child {
   margin-top: 0;
+  width: 300px;
 }
 
 .cards > ul > li img {
