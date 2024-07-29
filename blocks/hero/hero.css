@@ -32,13 +32,12 @@ main .hero-container {
   top: 8px;
   bottom: 200px;
   box-shadow:  3px 3px 3px 3px gray;
-}
 
 .hero paragraph {
 background-color: #838583;
 font-size: 16px;
   /* unvisited link */
-a:link {
+a:link 
   color: blue;
 }
 
