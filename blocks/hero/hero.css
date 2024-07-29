@@ -30,7 +30,20 @@ main .hero-container {
   height: 700px;
   top: 8px;
   bottom: 200px;
-  box-shadow:  3px 3px 3px 3px gray; 
+  box-shadow:  3px 3px 3px 3px gray;
+
+.hero paragraph {
+font-family: Georgia, serif;
+font-size: 14px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
 }
 
 .hero picture {
