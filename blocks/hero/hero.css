@@ -31,6 +31,12 @@ main .hero-container {
   top: 8px;
   bottom: 200px;
   box-shadow:  3px 3px 3px 3px gray;
+
+  .hero paragraph {
+  font-size: 14px;
+    /* unvisited link */
+  a:link {
+  color: blue;
 }
 
 .hero picture {
