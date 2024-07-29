@@ -155,7 +155,7 @@ button {
   font-weight: 600;
   cursor: pointer;
   color: #3775D0;
-  background-color: #E0F3FF;
+  background-color: #EOF3FF;
   margin: 16px 0;
   white-space: nowrap;
   overflow: hidden;
@@ -167,13 +167,13 @@ a.button:hover,
 a.button:focus,
 button:hover,
 button:focus {
-  background-color: #E0F3FF;
+  background-color: #EOF3FF;
   cursor: pointer;
 }
 
 button:disabled,
 button:disabled:hover {
-  background-color: #E0F3FF;
+  background-color: #EOF3FF;
   cursor: unset;
 }
 
