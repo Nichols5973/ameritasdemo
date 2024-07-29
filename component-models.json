@@ -191,13 +191,6 @@
         "label": "box title",
         "valueType": "string"
       }
-      {
-        "component": "text",
-        "name": "box title",
-        "value": "",
-        "label": "box title",
-        "valueType": "string"
-      }
     ]
   }
 ]
