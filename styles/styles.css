@@ -154,8 +154,8 @@ button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: #E0F3FF;
-  background-color: var(--link-color);
+  color: #3775D0;
+  background-color: #E0F3FF;
   margin: 16px 0;
   white-space: nowrap;
   overflow: hidden;
