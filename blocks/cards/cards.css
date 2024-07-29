@@ -15,10 +15,12 @@
 
 .cards .cards-card-body {
   margin: 16px;
+  align: center;
 }
 
 .cards .cards-card-image {
   line-height: 0;
+  width: 300px;
 }
 
 .cards .cards-card-body > *:first-child {
