@@ -162,6 +162,7 @@ button {
   overflow: hidden;
   text-overflow: ellipsis;
   border-radius: 30px;
+  justify-content: center;
 }
 
 a.button:hover,
